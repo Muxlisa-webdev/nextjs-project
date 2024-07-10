@@ -1,0 +1,22 @@
+.homepage-container{
+    width: 100%;
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.blogpage-container{
+    width: 100%;
+    height: 100vh;
+    background-color: yellow;
+}
+.hobbiespage-container{
+    width: 100%;
+    height: 100vh;
+    background-color: pink;
+}
+
+.contactpage-container{
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+}
